@@ -15,7 +15,6 @@ body {
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 600px;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
 }
@@ -31,11 +30,19 @@ body {
   padding: 6px;
 }
 .navbar a:hover {
-  color: #01da21;
+  color: #000000;
+}
+.btn {
+  color: #333;
+  background-color: #01da21;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+.btn:hover {
+  box-shadow: 4px 4px 10px black;
 }
 .content {
-  max-width: 600px;
-  margin: 40px auto;
+  max-width: 400px;
   padding: 20px;
 }
 /* blog previews / list */
@@ -45,10 +52,24 @@ body {
   border-bottom: 1px solid #fafafa;
 }
 .blog-preview:hover {
-  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 3px 10px rgb(130, 130, 130);
 }
 .blog-preview h2 {
   font-size: 20px;
   color: #01da21;
   margin-bottom: 8px;
+}
+
+.delete {
+  color: #000000;
+  cursor: pointer;
+  padding: 5px;
+  background-color: #00a419;
+  border: 2px solid black;
+  border-radius: 12px;
+  font-size: medium;
+}
+.delete:hover {
+  box-shadow: 4px 4px 10px black;
+  background-color: #01da21;
 }

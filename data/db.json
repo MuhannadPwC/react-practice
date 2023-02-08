@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Napkin Shortage",
+      "body": "lorem ipsum...",
+      "author": "Monique",
+      "id": 1
+    },
+    {
+      "title": "Banana Pudding Crisis",
+      "body": "lorem ipsum...",
+      "author": "Mohannad & Onion",
+      "id": 2
+    },
+    {
+      "title": "Staring at Screens",
+      "body": "No words, no answers, head empty",
+      "author": "Mohannad",
+      "id": 3
+    }
+  ]
+}
