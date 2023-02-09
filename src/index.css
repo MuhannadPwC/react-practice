@@ -42,7 +42,8 @@ body {
   box-shadow: 4px 4px 10px black;
 }
 .content {
-  max-width: 400px;
+  max-width: 600px;
+  margin: 0 auto;
   padding: 20px;
 }
 /* blog previews / list */
@@ -72,4 +73,25 @@ body {
 .delete:hover {
   box-shadow: 4px 4px 10px black;
   background-color: #01da21;
+}
+
+.blog-preview a {
+  text-decoration: none;
+}
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color: #01da21;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }

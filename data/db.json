@@ -2,19 +2,19 @@
   "blogs": [
     {
       "title": "Napkin Shortage",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde rem accusantium est numquam eveniet cupiditate iure illo culpa perferendis, sint nihil maxime laboriosam asperiores, quidem quisquam eum earum nulla.",
       "author": "Monique",
       "id": 1
     },
     {
       "title": "Banana Pudding Crisis",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde rem accusantium est numquam eveniet cupiditate iure illo culpa perferendis, sint nihil maxime laboriosam asperiores, quidem quisquam eum earum nulla.",
       "author": "Mohannad & Onion",
       "id": 2
     },
     {
       "title": "Staring at Screens",
-      "body": "No words, no answers, head empty",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde rem accusantium est numquam eveniet cupiditate iure illo culpa perferendis, sint nihil maxime laboriosam asperiores, quidem quisquam eum earum nulla.",
       "author": "Mohannad",
       "id": 3
     }
