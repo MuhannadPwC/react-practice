@@ -73,6 +73,7 @@ body {
 .delete:hover {
   box-shadow: 4px 4px 10px black;
   background-color: #01da21;
+  color: #000000;
 }
 
 .blog-preview a {
@@ -135,4 +136,9 @@ body {
   box-shadow: 4px 4px 10px black;
   background-color: #01da21;
   color: #000000;
+}
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
 }
